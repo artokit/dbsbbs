@@ -1,61 +1,67 @@
-0.15-0.152 https://steamcommunity.com/market/listings/730/AK-47 | Elite Build (Field-Tested)
-0.07-0.072 https://steamcommunity.com/market/listings/730/AK-47 | Elite Build (Minimal Wear)
-0.0000000001-0.01 https://steamcommunity.com/market/listings/730/AK-47 | Elite Build (Factory New)
-0.15-0.152 https://steamcommunity.com/market/listings/730/AWP | Worm God (Field-Tested)
-0.07-0.072 https://steamcommunity.com/market/listings/730/AWP | Worm God (Minimal Wear)
-0.0000000001-0.01 https://steamcommunity.com/market/listings/730/AWP | Worm God (Factory New)
-0.15-0.152 https://steamcommunity.com/market/listings/730/AWP | Atheris (Field-Tested)
-0.07-0.072 https://steamcommunity.com/market/listings/730/AWP | Atheris (Minimal Wear)
-0.15-0.152 https://steamcommunity.com/market/listings/730/M4A1-S | Flashback (Field-Tested)
-0.07-0.072 https://steamcommunity.com/market/listings/730/M4A1-S | Flashback (Minimal Wear)
-0.0000000001-0.01 https://steamcommunity.com/market/listings/730/M4A1-S | Flashback (Factory New)
-0.15-0.152 https://steamcommunity.com/market/listings/730/USP-S | Cyrex (Field-Tested)
-0.07-0.072 https://steamcommunity.com/market/listings/730/USP-S | Cyrex (Minimal Wear)
-0.15-0.152 https://steamcommunity.com/market/listings/730/USP-S | Lead Conduit (Field-Tested)
-0.07-0.072 https://steamcommunity.com/market/listings/730/USP-S | Lead Conduit (Minimal Wear)
-0.15-0.152 https://steamcommunity.com/market/listings/730/M4A1-S | Leaded Glass (Field-Tested)
-0.07-0.072 https://steamcommunity.com/market/listings/730/M4A1-S | Leaded Glass (Minimal Wear)
-0.15-0.152 https://steamcommunity.com/market/listings/730/AK-47 | Slate (Field-Tested)
-0.07-0.072 https://steamcommunity.com/market/listings/730/AK-47 | Slate (Minimal Wear)
-0.15-0.152 https://steamcommunity.com/market/listings/730/M4A4 | Converter (Field-Tested)
-0.07-0.072 https://steamcommunity.com/market/listings/730/M4A4 | Converter (Minimal Wear)
-0.15-0.152 https://steamcommunity.com/market/listings/730/AK-47 | Safety Net (Field-Tested)
-0.07-0.072 https://steamcommunity.com/market/listings/730/AK-47 | Safety Net (Minimal Wear)
-0.15-0.152 https://steamcommunity.com/market/listings/730/M4A1-S | Briefing (Field-Tested)
-0.07-0.072 https://steamcommunity.com/market/listings/730/M4A1-S | Briefing (Minimal Wear)
-0.15-0.152 https://steamcommunity.com/market/listings/730/Glock-18 | Royal Legion (Field-Tested)
-0.07-0.072 https://steamcommunity.com/market/listings/730/Glock-18 | Royal Legion (Minimal Wear)
-0.15-0.152 https://steamcommunity.com/market/listings/730/M4A4 | Royal Paladin (Field-Tested)
-0.07-0.072 https://steamcommunity.com/market/listings/730/M4A4 | Royal Paladin (Minimal Wear)
-0.15-0.152 https://steamcommunity.com/market/listings/730/AWP | Mortis (Field-Tested)
-0.07-0.072 https://steamcommunity.com/market/listings/730/AWP | Mortis (Minimal Wear)
-0.15-0.152 https://steamcommunity.com/market/listings/730/USP-S | Torque (Field-Tested)
-0.07-0.072 https://steamcommunity.com/market/listings/730/USP-S | Torque (Minimal Wear)
-0.15-0.152 https://steamcommunity.com/market/listings/730/AK-47 | Cartel (Field-Tested)
-0.07-0.072 https://steamcommunity.com/market/listings/730/AK-47 | Cartel (Minimal Wear)
-0.15-0.152 https://steamcommunity.com/market/listings/730/M4A1-S | Fizzy POP (Field-Tested)
-0.07-0.072 https://steamcommunity.com/market/listings/730/M4A1-S | Fizzy POP (Minimal Wear)
-0.15-0.152 https://steamcommunity.com/market/listings/730/M4A4 | Evil Daimyo (Field-Tested)
-0.07-0.072 https://steamcommunity.com/market/listings/730/M4A4 | Evil Daimyo (Minimal Wear)
-0.15-0.152 https://steamcommunity.com/market/listings/730/M4A1-S | Night Terror (Field-Tested)
-0.07-0.072 https://steamcommunity.com/market/listings/730/M4A1-S | Night Terror (Minimal Wear)
-0.15-0.152 https://steamcommunity.com/market/listings/730/USP-S | Cortex (Field-Tested)
-0.07-0.072 https://steamcommunity.com/market/listings/730/USP-S | Cortex (Minimal Wear)
-0.15-0.152 https://steamcommunity.com/market/listings/730/P250 | Asiimov (Field-Tested)
-0.0000000001-0.01 https://steamcommunity.com/market/listings/730/Desert Eagle | Blue Ply (Factory New)
-0.15-0.152 https://steamcommunity.com/market/listings/730/M4A1-S | Decimator (Field-Tested)
-0.07-0.072 https://steamcommunity.com/market/listings/730/M4A1-S | Decimator (Minimal Wear)
-0.15-0.152 https://steamcommunity.com/market/listings/730/M4A4 | Desolate Space (Field-Tested)
-0.07-0.072 https://steamcommunity.com/market/listings/730/M4A4 | Desolate Space (Minimal Wear)
-0.15-0.152 https://steamcommunity.com/market/listings/730/AWP | PAW (Field-Tested)
-0.07-0.072 https://steamcommunity.com/market/listings/730/AWP | PAW (Minimal Wear)
-0.15-0.152 https://steamcommunity.com/market/listings/730/AK-47 | Frontside Misty (Field-Tested)
-0.15-0.152 https://steamcommunity.com/market/listings/730/USP-S | Flashback (Field-Tested)
-0.07-0.072 https://steamcommunity.com/market/listings/730/USP-S | Flashback (Minimal Wear)
-0.0000000001-0.01 https://steamcommunity.com/market/listings/730/USP-S | Flashback (Factory New)
-0.15-0.152 https://steamcommunity.com/market/listings/730/M4A1-S | Nightmare (Field-Tested)
-0.15-0.152 https://steamcommunity.com/market/listings/730/AK-47 | Rat Rod (Field-Tested)
-0.07-0.072 https://steamcommunity.com/market/listings/730/AK-47 | Rat Rod (Minimal Wear)
-0.15-0.152 https://steamcommunity.com/market/listings/730/M4A4 | Buzz Kill (Field-Tested)
-0.15-0.152 https://steamcommunity.com/market/listings/730/Five-SeveN | Monkey Business (Field-Tested)
-0.07-0.072 https://steamcommunity.com/market/listings/730/Five-SeveN | Monkey Business (Minimal Wear)
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/PP-Bizon%20%7C%20Night%20Ops%20%28Factory%20New%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/PP-Bizon%20%7C%20Candy%20Apple%20%28Factory%20New%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/Negev%20%7C%20Bulkhead%20%28Factory%20New%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/Nova%20%7C%20Candy%20Apple%20%28Factory%20New%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/G3SG1%20%7C%20Green%20Apple%20%28Factory%20New%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/P250%20%7C%20Cassette%20%28Factory%20New%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/XM1014%20%7C%20Oxide%20Blaze%20%28Factory%20New%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/MAC-10%20%7C%20Candy%20Apple%20%28Factory%20New%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/M249%20%7C%20Spectre%20%28Factory%20New%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/Negev%20%7C%20Prototype%20%28Factory%20New%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/MAC-10%20%7C%20Oceanic%20%28Factory%20New%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/MP7%20%7C%20Urban%20Hazard%20%28Factory%20New%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/MP9%20%7C%20Bioleak%20%28Factory%20New%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/Five-SeveN%20%7C%20Scumbria%20%28Factory%20New%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/CZ75-Auto%20%7C%20Imprint%20%28Factory%20New%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/MP7%20%7C%20Armor%20Core%20%28Factory%20New%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/Sawed-Off%20%7C%20Origami%20%28Factory%20New%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/Dual%20Berettas%20%7C%20Shred%20%28Factory%20New%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/SCAR-20%20%7C%20Blueprint%20%28Factory%20New%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/SCAR-20%20%7C%20Grotto%20%28Factory%20New%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/M249%20%7C%20O.S.I.P.R.%20%28Factory%20New%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/Nova%20%7C%20Windblown%20%28Factory%20New%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/P2000%20%7C%20Imperial%20%28Factory%20New%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/R8%20Revolver%20%7C%20Survivalist%20%28Factory%20New%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/SG%20553%20%7C%20Heavy%20Metal%20%28Factory%20New%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/MAC-10%20%7C%20Lapis%20Gator%20%28Factory%20New%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/Five-SeveN%20%7C%20Violent%20Daimyo%20%28Factory%20New%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/P90%20%7C%20Off%20World%20%28Factory%20New%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/Tec-9%20%7C%20Ice%20Cap%20%28Factory%20New%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/PP-Bizon%20%7C%20Facility%20Sketch%20%28Factory%20New%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/P250%20%7C%20Nevermore%20%28Factory%20New%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/MP5-SD%20%7C%20Co-Processor%20%28Factory%20New%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/USP-S%20%7C%20Check%20Engine%20%28Factory%20New%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/USP-S%20%7C%20Guardian%20%28Factory%20New%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/Dual%20Berettas%20%7C%20Melondrama%20%28Factory%20New%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/M4A1-S%20%7C%20VariCamo%20%28Factory%20New%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/Desert%20Eagle%20%7C%20Conspiracy%20%28Factory%20New%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/USP-S%20%7C%20Cyrex%20%28Factory%20New%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/PP-Bizon%20%7C%20Fuel%20Rod%20%28Factory%20New%29
+0.07-0.079 https://steamcommunity.com/market/listings/730/AWP%20%7C%20Exoskeleton%20%28Minimal%20Wear%29
+0.07-0.079 https://steamcommunity.com/market/listings/730/Glock-18%20%7C%20Night%20%28Minimal%20Wear%29
+0.07-0.079 https://steamcommunity.com/market/listings/730/UMP-45%20%7C%20Primal%20Saber%20%28Minimal%20Wear%29
+0.07-0.079 https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20R8%20Revolver%20%7C%20Crimson%20Web%20%28Minimal%20Wear%29
+0.07-0.079 https://steamcommunity.com/market/listings/730/R8%20Revolver%20%7C%20Crimson%20Web%20%28Minimal%20Wear%29
+0.72-0.79999 https://steamcommunity.com/market/listings/730/AWP%20%7C%20Safari%20Mesh%20%28Battle-Scarred%29
+0.07-0.079 https://steamcommunity.com/market/listings/730/M4A4%20%7C%20Spider%20Lily%20%28Minimal%20Wear%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/M4A4%20%7C%20Spider%20Lily%20%28Factory%20New%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/AWP%20%7C%20Sun%20in%20Leo%20%28Factory%20New%29
+0.15-0.16 https://steamcommunity.com/market/listings/730/Galil%20AR%20%7C%20Chromatic%20Aberration%20%28Field-Tested%29
+0.07-0.079 https://steamcommunity.com/market/listings/730/Galil%20AR%20%7C%20Chromatic%20Aberration%20%28Minimal%20Wear%29
+0.15-0.18 https://steamcommunity.com/market/listings/730/AK-47%20%7C%20Redline%20%28Field-Tested%29
+0.07-0.079 https://steamcommunity.com/market/listings/730/USP-S%20%7C%20Whiteout%20%28Minimal%20Wear%29
+0.15-0.18 https://steamcommunity.com/market/listings/730/SSG%2008%20%7C%20Slashed%20%28Field-Tested%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/UMP-45%20%7C%20Arctic%20Wolf%20%28Factory%20New%29
+0.07-0.079 https://steamcommunity.com/market/listings/730/R8%20Revolver%20%7C%20Crazy%208%20%28Minimal%20Wear%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/MP9%20%7C%20Mount%20Fuji%20%28Factory%20New%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/Sawed-Off%20%7C%20Wasteland%20Princess%20%28Factory%20New%29
+0.07-0.079 https://steamcommunity.com/market/listings/730/P250%20%7C%20Visions%20%28Minimal%20Wear%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/UMP-45%20%7C%20Exposure%20%28Factory%20New%29
+0.07-0.079 https://steamcommunity.com/market/listings/730/AUG%20%7C%20Momentum%20%28Minimal%20Wear%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/MP5-SD%20%7C%20Phosphor%20%28Factory%20New%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/AUG%20%7C%20Stymphalian%20%28Factory%20New%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/MP9%20%7C%20Goo%20%28Factory%20New%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/PP-Bizon%20%7C%20Space%20Cat%20%28Factory%20New%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/FAMAS%20%7C%20Rapid%20Eye%20Movement%20%28Factory%20New%29
+0.07-0.079 https://steamcommunity.com/market/listings/730/MAC-10%20%7C%20Calf%20Skin%20%28Minimal%20Wear%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/AWP%20%7C%20POP%20AWP%20%28Factory%20New%29

@@ -354,7 +354,6 @@
 0.000001-0.015 https://steamcommunity.com/market/listings/730/AWP%20%7C%20Worm%20God%20%28Factory%20New%29
 0.45-0.454 https://steamcommunity.com/market/listings/730/USP-S%20%7C%20Neo-Noir%20%28Battle-Scarred%29
 0.15-0.152 https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20AK-47%20%7C%20Phantom%20Disruptor%20%28Field-Tested%29
-0.35-0.36 https://steamcommunity.com/market/listings/730/R8%20Revolver%20%7C%20Crazy%208%20%28Well-Worn%29
 0.45-0.454 https://steamcommunity.com/market/listings/730/AWP%20%7C%20Atheris%20%28Battle-Scarred%29
 0.07-0.072 https://steamcommunity.com/market/listings/730/M4A4%20%7C%20Buzz%20Kill%20%28Minimal%20Wear%29
 0.45-0.454 https://steamcommunity.com/market/listings/730/P250%20%7C%20See%20Ya%20Later%20%28Battle-Scarred%29
